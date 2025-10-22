@@ -1,0 +1,4 @@
+[submodule "apcupsd"]
+	path = apcupsd
+	url = https://github.com/twasilczyk/apcupsd-ha
+	branch = main
